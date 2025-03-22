@@ -24,3 +24,7 @@ officecdn.microsoft.com
 officecdn.microsoft.com.edgesuite.net
 dl.google.com
 *.gvt1.com
+ardownload.adobe.com
+ccmdl.adobe.com
+agsupdate.adobe.com
+google.ca
