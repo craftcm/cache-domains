@@ -113,7 +113,7 @@
 			"domain_files": ["wargaming.net.txt"]
 		},
 		{
-			"name": "wsus",
+			"name": "windows",
 			"description": "CDN for windows updates",
 			"domain_files": ["windowsupdates.txt"]
 		},
@@ -121,6 +121,16 @@
 			"name": "xboxlive",
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
+		}
+        		{
+			"name": "google",
+			"description": "CDN for google",
+			"domain_files": ["google.txt"]
+		}
+        		{
+			"name": "adobe",
+			"description": "CDN for adobe",
+			"domain_files": ["adobe.txt"]
 		}
 	]
 }
