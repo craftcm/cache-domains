@@ -15,5 +15,3 @@ tlu.dl.delivery.mp.microsoft.com
 *.tlu.dl.delivery.mp.microsoft.com
 officecdn.microsoft.com
 officecdn.microsoft.com.edgesuite.net
-dl.google.com
-*.gvt1.com
